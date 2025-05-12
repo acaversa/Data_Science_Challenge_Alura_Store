@@ -1,4 +1,4 @@
-# Data_Science_Challenge_Alura_Store
+# Data Science Challenge Alura Store
 
 Análise de Dados de Vendas de Lojas
 Este projeto realiza uma análise detalhada de dados de vendas de várias lojas. A análise foi feita utilizando o Google Colab com a linguagem Python, onde utilizamos bibliotecas como Pandas, Matplotlib e SQLite para realizar a leitura, processamento e visualização dos dados.
